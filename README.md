@@ -21,8 +21,8 @@
 
 > **COVID-19 analysis** in Brazil (2021-2023). Data processed with Python and reporting made with Google Looker Studio. 
 
-<p aling="center">
- <img src="https://github.com/OviedoVR/ENGLISH-Portfolio/blob/main/images/COVID19-GLS.png"/>
+<p aling="center"> 
+ <img src="https://github.com/OviedoVR/ENGLISH-Data-Analyst-Portfolio/blob/main/images/COVID19-GLS.png"/>
   </p>
 
 Link: [Dashboard](https://lookerstudio.google.com/s/jtY-xnKuBzY)
