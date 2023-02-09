@@ -33,5 +33,5 @@
 > Power BI dashboard to answer business questions concerning a commercial sales dataset [Portuguese - Brazil].
 
 <p aling="center">
- <img src="https://github.com/OviedoVR/ENGLISH-Portfolio/blob/main/images/COVID19-GLS.png" width=700/>
+ <img src="https://github.com/OviedoVR/ENGLISH-Portfolio/blob/main/images/PBI-commercial.png" width=700/>
   </p>
