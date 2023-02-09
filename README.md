@@ -1,5 +1,3 @@
-# ENGLISH - Data Analysis Portfolio
-
 # **Kombucha Sales Analytics - Summary**
 ### Problem-Solving with MS Excel
 
