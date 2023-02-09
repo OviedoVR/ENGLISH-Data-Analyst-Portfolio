@@ -4,7 +4,7 @@
 > **"Kombucha Kulture"**' is a growing kombucha startup that has just expanded its sales accross some regions and cities in the South of Brazil. However, the company's management team has noticed that some of their flavors are not performing as well as others. To handle this scenario, this MS Excel workbook is intended to analyze its sales data corresponding to January of 2023. 
 
 <p aling="center">
- <img src="https://github.com/OviedoVR/ENGLISH-Portfolio/blob/main/images/KombuchaSalesAnalysis-MS-Excel.png" width=250/>
+ <img src="https://github.com/OviedoVR/ENGLISH-Portfolio/blob/main/images/Statistics-and-EDA.png"/>
   </p>
 
 ### **Business Questions to be answered:**
