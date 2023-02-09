@@ -18,21 +18,11 @@
 5. Are there outliers or anomalies in the kombucha sales dataset?							
 6. Are there products that should be discontinuated?				
 
-### Analysis
+# **COVID-19 in Brazil**
+### Problem-Solving with Python & Google Looker Studio
 
-* **The Analysis** was performed and those questions were answered in a MS Excel workbook that was divided into the following sheets:
-
-| Sheet	| Analysis |
-|-------|----------|
-| 2 	| Descriptive Statistics and EDA |
-| 3 	| Sales by Geography |
-| 4 	| Dynamic Report |
-| 5 	| Anomaly Detection |
-| 6 	| Products Discontinuation |
-
+> **COVID-19 analysis** in Brazil (2021-2023). Data processed with Python and reporting made with Google Looker Studio. 
 
 <p aling="center">
  <img src="https://github.com/OviedoVR/ENGLISH-Portfolio/blob/main/images/COVID19-GLS.png"/>
   </p>
-
-* [**MS EXCEL SPREADSHEET**](https://github.com/OviedoVR)
