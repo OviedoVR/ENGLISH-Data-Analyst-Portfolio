@@ -31,4 +31,8 @@
 | 6 	| Products Discontinuation |
 
 
+<p aling="center">
+ <img src="https://github.com/OviedoVR/ENGLISH-Portfolio/blob/main/images/COVID19-GLS.png"/>
+  </p>
+
 * [**MS EXCEL SPREADSHEET**](https://github.com/OviedoVR)
