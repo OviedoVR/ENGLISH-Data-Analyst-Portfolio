@@ -27,6 +27,9 @@
  <img src="https://github.com/OviedoVR/ENGLISH-Portfolio/blob/main/images/COVID19-GLS.png"/>
   </p>
 
+Link: [Dashboard](https://lookerstudio.google.com/s/jtY-xnKuBzY)
+
+
 # **Commercial Insights & KPI (Dashboard)**
 ### Problem-Solving with Power BI
 
@@ -35,3 +38,5 @@
 <p aling="center">
  <img src="https://github.com/OviedoVR/ENGLISH-Portfolio/blob/main/images/PBI-commercial.png"/>
   </p>
+
+Link: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjc5ZmY2NTgtODA4MS00N2JlLWJmNDUtYjJkZWQ5OGUyYmNkIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9)
