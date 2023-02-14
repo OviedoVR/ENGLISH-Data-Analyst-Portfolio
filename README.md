@@ -1,4 +1,4 @@
-# **Kombucha Sales Analytics - Summary**
+# **Kombucha Sales Analytics**
 ### Problem-Solving with MS Excel
 
 > **"Kombucha Kulture"**' is a growing kombucha startup that has just expanded its sales across some cities in the South of Brazil. However, the company's management team has noticed that some of their flavors are not performing as well as others. To handle this scenario, this MS Excel workbook is intended to analyze its sales data corresponding to January 2023. 
